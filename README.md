@@ -34,6 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="70" height="70" alt="GitLab" />
 </p>
-<b align="left">Connect with me:</b> <br> 
-💼 LinkedIn:<a>https://www.linkedin.com/in/soroarbd/</a><br>
-📧 Email: soroar42@gmail.com  
+<b>Connect with me:</b> <br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/soroarbd/" target="_blank">https://www.linkedin.com/in/soroarbd/</a> <br>
+📧 Email: <a href="mailto:soroar42@gmail.com">soroar42@gmail.com</a>
