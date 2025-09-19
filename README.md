@@ -23,7 +23,7 @@
 💡 Passionate about building scalable systems, automating workflows, and ensuring smooth CI/CD pipelines.<br>   
 🔧 Skilled in containerization, cloud services, and infrastructure automation.  </p>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="150" alt="AWS Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80" alt="AWS Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="80" height="80" alt="Kubernetes" />
   <img src="https://helm.sh/img/helm.svg" width="80" height="80" alt="Helm" />
